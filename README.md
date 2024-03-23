@@ -1,1 +1,3 @@
-# blood-cell-detection
+# Description
+
+Initial project structure for deep learning projects.
